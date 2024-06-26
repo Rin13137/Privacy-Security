@@ -43,3 +43,7 @@
 ### Мониторинг статуса в сети
 
 * [TelegramOnlineSpy](https://github.com/Forichok/TelegramOnlineSpy) - Uses Telethon library to check online status and if it was changed. If changes are detected, a bot will send you a message.
+
+  ### Другое
+  
+ * @AximoBot — мгновенно сохранит новые публикации аккаунта в Telegram
