@@ -24,6 +24,7 @@
 * [FindClone](https://findclone.ru/) — Данный сервис позволяет найти родственников или другие аккаунт человека по фото.
 * [Maigret](https://t.me/osint_maigret_bot) — С помощью данного Telegram бота можно найти другие аккунты аккаунтов цели в других социальных сетях по никнейм. 
 * Av3 — Браузерное расширение для Google Chrome, которое собирает и выдает информацию об аккаунте.
+* [InsFo](https://chromewebstore.google.com/detail/insfo-ig-follower-export/bckleejkdhlponanidmjfjdigpahlado?pli=1) — расширение для Chrome, скачивает всех подписчиков и подписки аккаунта
 * storiesig.com 
 * codeofaninja.com 
 * sometag.org 
