@@ -8,6 +8,7 @@
 * @instagent_bot — скачивает посты, истории, igtv, коллекции подписчиков, профили подписок, может достать телефоны, почты подписчиков и прочее
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
+* [stevesie](https://stevesie.com/) — соберет все посты профиля и даст ссылки на фото
 * [Osintgram](https://github.com/Datalux/Osintgram) — Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. 
 * [Picodash](https://www.picodash.com)
 * [Sterra](https://github.com/novitae/sterraxcyl) — найдёт ближний круг аккаунта, сравнивает списки подписок и подписчиков у аккаунта и находит совпадения
