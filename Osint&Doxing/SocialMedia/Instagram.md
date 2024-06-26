@@ -12,6 +12,7 @@
 * [Sterra](https://github.com/novitae/sterraxcyl) — найдёт ближний круг аккаунта, сравнивает списки подписок и подписчиков у аккаунта и находит совпадения
 * [Toutatis](https://github.com/megadose/toutatis) — достанет публичные данные аккаунта, это id, имя, бизнес контакты, телефон и почту из восстановления доступа без уведомления самого пользователя
 * [глазбога.com](https://глазбога.com/) — бот, дает часть номера телефона
+* @Instagram_Watcher_Bot — следит за новыми историями аккаунта Instagram
 * [smartsearchbot.com](https://t.me/smsearcherbot/) — бот находит email, номер телефона и другое, бесплатный поиск не доступен для новых пользователей
 * [notjustanalytics.com](https://www.notjustanalytics.com/?gad_source=1&gclid=Cj0KCQjwgJyyBhCGARIsAK8LVLNmQqid4bjZl10se_07u9LfOzm9a6eHs8QjErkapYG-OFeDJFLny4MaApitEALw_wcB) — анализ аккаунта, покажет вовлеченность, рост количества подписчиков, графики взаимодействий и другое
 * [Tenai](https://github.com/novitae/Tenai) — найдет часть подписчиков приватного аккаунта
