@@ -62,6 +62,4 @@ Tox.
 > - [RetroShare](https://retroshare.cc)
 </details>
 
-<p align="right"><sup><a href="#top">⬆️ [Back to Top]</a></sub></p>
-
 ---
